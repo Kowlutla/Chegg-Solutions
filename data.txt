@@ -1,0 +1,5 @@
+Thabo Lehaile	32	Kwazulu Natal	Male
+Lesang Lemo	32	Gauteng	Female
+James Boles	28	Free State	Male
+Ahmed Drinkwater	31	Gauteng	Male
+Lucia Tsalalie	32	Kwazulu Natal	Female
